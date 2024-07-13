@@ -1,0 +1,43 @@
+.level {
+
+    background: rgb(5,8,31);
+    background: linear-gradient(0deg, rgba(5,8,31,1) 0%, rgba(25,17,102,1) 100%);
+    width: 90%;
+    padding: 1%;
+    border-radius: 50px;
+    margin: 2%;
+    max-width: 100%;
+    height: 240px;
+}
+ 
+.level h1 {
+    float: left;
+    margin: 1%;
+    font-size: 60px;
+
+}
+
+.level h2 {
+    font-size: 80;
+    float: left;
+    margin: 1%;
+
+}
+
+.level h3 {
+    float: left;
+    margin: 1%;
+    overflow: hidden; 
+    font-size: 29px;
+}
+
+.level p {
+    color: gray;
+    margin: 1%;
+    font-size: 27px;
+}
+
+.level iframe {
+    float: left;
+    margin: 1%;
+}
