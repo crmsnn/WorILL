@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WorILL/static/css/main.b623e3f6.css",
+    "main.js": "/WorILL/static/js/main.22013357.js",
+    "static/js/453.ed3810f9.chunk.js": "/WorILL/static/js/453.ed3810f9.chunk.js",
+    "static/media/ill_logo.png": "/WorILL/static/media/ill_logo.9fde621c93ae681a634e.png",
+    "index.html": "/WorILL/index.html",
+    "main.b623e3f6.css.map": "/WorILL/static/css/main.b623e3f6.css.map",
+    "main.22013357.js.map": "/WorILL/static/js/main.22013357.js.map",
+    "453.ed3810f9.chunk.js.map": "/WorILL/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b623e3f6.css",
+    "static/js/main.22013357.js"
+  ]
+}
